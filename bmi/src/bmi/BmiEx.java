@@ -7,6 +7,7 @@ public class BmiEx {
 		// 몸무게/(키*키)
 		double height = 1.6;
 		int weight = 55;
+		//새로운 추가3
 
 		double bmi = weight / (height * height);
 
