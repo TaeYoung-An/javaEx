@@ -7,7 +7,9 @@ public class BmiEx {
 		// 몸무게/(키*키)
 		double height = 1.6;
 		int weight = 55;
-
+		
+		//새로운 추가1
+		//새로운 추가2
 		double bmi = weight / (height * height);
 
 		System.out.println("환영합니다.");
