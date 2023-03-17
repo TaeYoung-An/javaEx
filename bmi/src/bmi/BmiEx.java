@@ -14,7 +14,8 @@ public class BmiEx {
 		System.out.println("당신의 BMI는 " + bmi + "입니다.");
 		System.out.printf("당신의 BMI는 %.2f입니다.", bmi);
 		
-		System.out.println("수정");
+		System.out.println("집에서 수정");
+		System.out.println("학원에서 수정");
 
 	}
 
