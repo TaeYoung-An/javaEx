@@ -1,0 +1,19 @@
+package bmi;
+
+public class BmiEx {
+
+	public static void main(String[] args) {
+		// 키 1.6m 몸무게 55kg
+		// 몸무게/(키*키)
+		double height = 1.6;
+		int weight = 55;
+
+		double bmi = weight / (height * height);
+
+		System.out.println("환영합니다.");
+		System.out.println("당신의 BMI는 " + bmi + "입니다.");
+		System.out.printf("당신의 BMI는 %.2f입니다.", bmi);
+
+	}
+
+}
