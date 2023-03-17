@@ -11,6 +11,7 @@ public class BmiEx {
 		//새로운 추가3
 		//새로운 추가1
 		//새로운 추가2
+		//새로운 추가4
 
 		double bmi = weight / (height * height);
 
