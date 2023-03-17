@@ -18,6 +18,7 @@ public class BmiEx {
 		System.out.println("학원에서 수정");
 		System.out.println("학원충돌");
 
+
 	}
 
 }
